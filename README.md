@@ -9,3 +9,9 @@ Files included:
 
 Youtube Video Link - [Citizen Science – Experimenting the possibility](https://youtu.be/ufSkkEI8sOU)
 
+Team Member:
+* [Jubin Savla](https://github.com/savlajubin)
+* [Saurabh Jain](https://github.com/sorabh2008)
+* [Saket Jain](https://github.com/saketj5)
+* [Anikesh Sasmal](https://github.com/anikeshsasmal)
+* Swetalina Nayak
